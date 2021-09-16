@@ -21,8 +21,9 @@ Trying my best to code stuff.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love working out! 
 
-<b> Edi's Stats </b>
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediprekpalaj&layout=compact" />
+<div class="Stats">
+    <p>Edi's Stats</p>
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediprekpalaj&layout=compact" />
+</div>
 
-<br>
 
