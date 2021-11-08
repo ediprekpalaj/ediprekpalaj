@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Edi!
-<a href=https://www.linkedin.com/in/edi-prekpalaj-488894208/><img align='left' alt="linkedin" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" height='18px'/></a>
+<a href=https://www.linkedin.com/in/edi-prekpalaj-488894208/><img align='left' alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height='18px'/></a>
 <a href='https://twitter.com/ebreezoo/'><img align='left' alt="twitter" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" height='18px'/></a>
 
 
