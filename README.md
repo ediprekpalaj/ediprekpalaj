@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Edi!
 <a href=https://www.linkedin.com/in/edi-prekpalaj-488894208/><img align='left' alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height='18px'/></a>
-<a href='https://twitter.com/ebreezoo/'><img align='left' alt="twitter" src="http://cdn26.us1.fansshare.com/photo/twitter/twitter-logo-twitter-1625473374.jpg" height='18px'/></a>
+
 
 
 
