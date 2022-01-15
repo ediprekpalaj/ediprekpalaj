@@ -15,7 +15,6 @@ Trying my best to code stuff.
 - 🔭 I’m currently working on: my personal website and two useful apps(coming soon!)
 - 🌱 I’m currently learning: various Data Structures and Algorithms
 - 📫 How to reach me: Email: ediprekpalaj78@gmail.com
-- ⚡ Fun fact: I am a huge Marvel fan!! 
 
 <div class="Stats">
   <p> <b> Edi's Stats </b> </p>
