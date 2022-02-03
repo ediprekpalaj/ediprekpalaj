@@ -1,5 +1,1 @@
-<img align="right" alt="GIF" src="https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif" width="360px"/>
-
-<div class="Stats">
-  <p> <b> Edi's Stats </b> </p>
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediprekpalaj&layout=compact" />
+![Metrics](https://metrics.lecoq.io/ediprekpalaj?template=terminal&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
