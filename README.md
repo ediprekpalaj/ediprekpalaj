@@ -4,7 +4,7 @@
 
 
 
-Trying my best to code stuff. 
+<b>Trying my best to create & learn new things!</b>
 <br/>
 <br/>
 
