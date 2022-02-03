@@ -10,12 +10,6 @@ Trying my best to code stuff.
 
 <img align="right" alt="GIF" src="https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif" width="360px"/>
   
-### 🧐 More About Me:
-
-- 🔭 I’m currently working on: my personal website and two useful apps(coming soon!)
-- 🌱 I’m currently learning: various Data Structures and Algorithms
-- 📫 How to reach me: Email: ediprekpalaj78@gmail.com
-
 <div class="Stats">
   <p> <b> Edi's Stats </b> </p>
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediprekpalaj&layout=compact" />
